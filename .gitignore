@@ -1,0 +1,10 @@
+#cache
+./.idea
+/_pycache_
+
+#
+.local_output/*
+.local_input/*
+logs/
+
+qiyuan_patch_train_v1/*
